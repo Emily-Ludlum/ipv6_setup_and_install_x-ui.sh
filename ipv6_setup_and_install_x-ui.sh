@@ -47,10 +47,10 @@ echo "正在安装 X-UI..."
 wget -N --no-check-certificate https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh && bash install.sh
 
 # 提示用户设置 X-UI 的用户名、密码和端口
-echo "已完成设置防火墙规则"
-echo "已完成部署 wget curl socat cron 依赖"
-echo "已完成 warp 安装及设置"
-echo "已完成申请 SSL 证书，并下载到服务器目录"
+echo "已完成设置防火墙规则..."
+echo "已完成部署 wget curl socat cron 依赖..."
+echo "已完成 warp 安装及设置..."
+echo "已完成申请 SSL 证书，并下载到服务器目录..."
 echo "已完成设置 X-UI 的用户名、密码和端口..."
 
 echo "安装成功!"
